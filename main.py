@@ -38,7 +38,7 @@ def get_audio():
 def ai(promp):
     
     #Enter your OpenAI API Key here:
-    openai.api_key = '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'
+    openai.api_key = 
     
     prompt = promp
     text = f"GPT Response for Prompt: {prompt}\n\n"
