@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 
 
 def generate_resignation_email():
     prompt = """I am done with my boss please write a resignation letter for me"""
